@@ -1,0 +1,174 @@
+html,
+body {
+    height: 100%;
+    font-size: 1rem;
+    background-color:#FFF;
+
+}
+
+.container-fluid{
+    padding-left:15rem;
+}
+
+
+.login{
+    position: absolute;
+    width: 545px;
+    height: 68px;
+    left: 115px;
+    top: 210px;
+
+    /* font-family: Poppins; */
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 72px;
+    font-family: 'Poppins', sans-serif;
+
+    color: #133D7F;
+}
+
+.p-1{
+    position: absolute;
+    width: 228px;
+    height: 23px;
+    left: 276px;
+    top: 274px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    text-transform: capitalize;
+
+    color: #133D7F;
+
+}
+
+.form-label{
+    position: absolute;
+    width: 64.35px;
+    height: 25.2px;
+    left: 25px;
+    top: 150px;
+    margin-top: 20rem;
+    padding-left: 80px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    text-transform: capitalize;
+
+    color: #133D7F;
+}
+
+.form-control{
+    position: absolute;
+    width: 580px;
+    height: 70px;
+    left: 100px;
+    top: 175px;
+    margin-top:20rem;
+    padding-left: 80px;
+
+    border: 1px solid #133D7F;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.form-label2{
+    position: absolute;
+    width: 72px;
+    height: 27.29px;
+    left: 25px;
+    top: 273px;
+    margin-top:20rem;
+    padding-left: 80px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    text-transform: capitalize;
+
+    color: #133D7F;
+}
+
+.form-control2{
+    position: absolute;
+    width: 580px;
+    height: 70px;
+    left: 100px;
+    top: 300px;
+    margin-top:20rem;
+    padding-left: 80px;
+
+    border: 1px solid #133D7F;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.p-2{
+    position: absolute;
+    width: 148px;
+    height: 24px;
+    left: 550px;
+    top: 630px;
+    margin-top:4rem;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    text-transform: capitalize;
+
+    color: #133D7F;
+}
+
+.login-btn{
+    position: absolute;
+    width: 580px;
+    height: 70px;
+    left: 97px;
+    top: 697px;
+    margin-top:4rem;
+
+    background: #133D7F;
+    border-radius: 5px;
+}
+
+.image1{
+    position: absolute;
+    width: 501px;
+    height: 501px;
+    left: 813px;
+    top: 238px;
+
+    background:#FFF;
+
+}
+
+.footers{
+    position: absolute;
+    width: 400px;
+    height: 23px;
+    left: 1200px;
+    top: 882px;
+    margin-top:14rem;
+    padding-left: 90px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    text-transform: capitalize;
+
+    color: #133D7F;
+
+}
