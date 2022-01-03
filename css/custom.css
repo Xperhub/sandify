@@ -7,7 +7,7 @@ body {
 }
 
 .container-fluid{
-    padding-left:15rem;
+    padding-left:10rem;
 }
 
 
@@ -17,6 +17,7 @@ body {
     height: 68px;
     left: 115px;
     top: 210px;
+    margin-top:0rem;
 
     /* font-family: Poppins; */
     font-style: normal;
@@ -144,10 +145,10 @@ body {
 
 .image1{
     position: absolute;
-    width: 501px;
-    height: 501px;
+    width: 200px;
+    height: 1000px;
     left: 813px;
-    top: 238px;
+    top: 50px;
 
     background:#FFF;
 
@@ -160,6 +161,7 @@ body {
     left: 1200px;
     top: 882px;
     margin-top:14rem;
+    margin-left: 25rem;
     padding-left: 90px;
 
     font-family: Poppins;
@@ -171,4 +173,62 @@ body {
 
     color: #133D7F;
 
+}
+.welcome{
+    position: absolute;
+    width: 1500px;
+    height: 68px;
+    left: 269px;
+    top: 119px;
+    padding-left: 10rem;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 72px;
+
+    color: #133D7F;
+}
+
+.image2{
+    position: absolute;
+    width: 463px;
+    height: 355px;
+    left: 805px;
+    top: 349px;
+
+    background: url(image.png);
+}
+
+.welcome-btn{
+    position: absolute;
+    width: 580px;
+    height: 70px;
+    left: 97px;
+    top: 697px;
+    margin-top:20rem;
+    margin-left: 45rem;
+
+    background: #133D7F;
+    border-radius: 5px;
+}
+.image3{
+    position: absolute;
+    width: 489px;
+    height: 371px;
+    left: 843px;
+    top: 326px;
+    
+    background: url(image.png);
+}
+
+.image4{
+    position: absolute;
+width: 791px;
+height: 593px;
+left: 305px;
+top: 178px;
+
+background: url(image.png);
 }
