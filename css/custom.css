@@ -179,7 +179,7 @@ body {
     height: 68px;
     left: 269px;
     top: 119px;
-    padding-left: 10rem;
+    margin-top:0rem;
 
     font-family: Poppins;
     font-style: normal;
@@ -281,6 +281,8 @@ background: url(image.png);
     height: 68px;
     left: 71px;
     top: 77px;
+    padding-right: 4rem;
+    margin-right: auto 0 auto auto;
 
     font-family: Poppins;
     font-style: normal;
