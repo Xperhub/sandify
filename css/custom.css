@@ -29,7 +29,7 @@ body {
     color: #133D7F;
 }
 
-.p-1{
+.hr-p1{
     position: absolute;
     width: 228px;
     height: 23px;
@@ -145,13 +145,12 @@ body {
 
 .image1{
     position: absolute;
-    width: 200px;
-    height: 1000px;
+    width: 501px;
+    height: 501px;
     left: 813px;
-    top: 50px;
+    top: 238px;
 
-    background:#FFF;
-
+    background: url(image.png);
 }
 
 .footers{
@@ -231,4 +230,169 @@ left: 305px;
 top: 178px;
 
 background: url(image.png);
+}
+
+.image9{
+    position: absolute;
+    width: 463px;
+    height: 355px;
+    left: 805px;
+    top: 349px;
+
+    background: url(image.png);
+
+}
+.pro-p1{
+    position: absolute;
+    width: 350px;
+    height: 23px;
+    left: 197px;
+    top: 278px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    text-transform: capitalize;
+
+    color: #133D7F;
+}
+
+.account-p1{
+    position: absolute;
+    width: 303px;
+    height: 23px;
+    left: 197px;
+    top: 278px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    text-transform: capitalize;
+
+    color: #133D7F;
+}
+.welcome{
+    position: absolute;
+    width: 1197px;
+    height: 68px;
+    left: 71px;
+    top: 77px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 54px;
+
+    color: #133D7F;
+}
+
+.welcome-image{
+    position: absolute;
+    width: 519px;
+    height: 511.66px;
+    left: 838px;
+    top: 260px;
+
+    background: url(image.png);
+}
+
+.hr-click{
+    position: absolute;
+    width: 333px;
+    height: 70px;
+    left: 71px;
+    top: 390px;
+
+    background: #133D7F;
+    border-radius: 5px;
+
+    position: absolute;
+
+}
+
+.fin-click{
+    position: absolute;
+    width: 333px;
+    height: 70px;
+    left: 425px;
+    top: 390px;
+
+    background: #133D7F;
+    border-radius: 5px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px;
+    text-transform: capitalize;
+
+    color: #FFFFFF;
+}
+.ar-click{
+    position: absolute;
+    width: 333px;
+    height: 70px;
+    left: 71px;
+    top: 481px;
+
+    background: #133D7F;
+    border-radius: 5px;
+}
+.pro-click{
+    position: absolute;
+    width: 333px;
+    height: 70px;
+    left: 425px;
+    top: 481px;
+
+    background: #133D7F;
+    border-radius: 5px;
+}
+.oil-click{
+    position: absolute;
+    width: 333px;
+    height: 70px;
+    left: 71px;
+    top: 572px;
+
+    background: #133D7F;
+    border-radius: 5px;
+}
+.super-click{
+    
+    position: absolute;
+    width: 333px;
+    height: 70px;
+    left: 425px;
+    top: 572px;
+
+    background: #133D7F;
+    border-radius: 5px;
+}
+.roof-click{
+    position: absolute;
+    width: 333px;
+    height: 70px;
+    left: 71px;
+    top: 663px;
+
+    background: #133D7F;
+    border-radius: 5px;
+
+}
+.crm-click{
+    position: absolute;
+    width: 333px;
+    height: 70px;
+    left: 425px;
+    top: 663px;
+
+    background: #133D7F;
+    border-radius: 5px;
 }
